@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nicolas Martinez.
+- 👀 I’m interested in Front End Web Development.
+- 🌱 I’m currently learning Javascript after a few months of HTML and CSS.
+- 💞️ I’m looking to collaborate on any fun project that I can learn from it.
+- 📫 I'm living in Vancouver, Canada since April, 2021. You can reach me via email to nicomartinezmiranda@gmail.com.
